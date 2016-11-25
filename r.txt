@@ -1,0 +1,102 @@
+[NewIcon]: ./media/web-sites-dotnet-session-state-caching/CacheScreenshot_NewButton.png
+[NewCacheDialog]: ./media/web-sites-dotnet-session-state-caching/CachingScreenshot_CreateOptions.png
+[CacheIcon]: ./media/web-sites-dotnet-session-state-caching/CachingScreenshot_CacheIcon.png
+[NuGetDialog]: ./media/web-sites-dotnet-session-state-caching/CachingScreenshot_NuGet.png
+[OutputConfig]: ./media/web-sites-dotnet-session-state-caching/CachingScreenshot_OC_WebConfig.png
+[CacheConfig]: ./media/web-sites-dotnet-session-state-caching/CachingScreenshot_CacheConfig.png
+[EndpointURL]: ./media/web-sites-dotnet-session-state-caching/CachingScreenshot_EndpointURL.png
+[ManageKeys]: ./media/web-sites-dotnet-session-state-caching/CachingScreenshot_ManageAccessKeys.png
+[chat-example-view]: ./media/web-sites-nodejs-chat-app-socketio/socketio-2.png
+[npm-output]: ./media/web-sites-nodejs-chat-app-socketio/socketio-7.png
+[completed-app]: ./media/web-sites-nodejs-chat-app-socketio/websitesocketcomplete.png
+![选择“快速创建”网站](./media/web-sites-php-create-web-sites/select-quickcreate-Website.png)  
+[image-hdi-versioning-versionscreen]: ./media/hdinsight-component-versioning-v1/hdi-versioning-version-screen.png
+[image-hdi-versioning-versionscreen]: ./media/hdinsight-component-versioning/hdi-versioning-version-screen.png
+![提供 HBase 群集的详细信息](./media/hdinsight-hbase-provision-vnet/hbasewizard2.png)  
+![提供 Hadoop HDInsight 群集的存储帐户](./media/hdinsight-hbase-provision-vnet/hbasewizard3.png)  
+![提供 Hadoop HDInsight 群集的存储帐户](./media/hdinsight-hbase-provision-vnet/hbasewizard4.png)  
+[img-dns-surffix]: ./media/hdinsight-hbase-provision-vnet/DNSSuffix.png
+[img-primary-dns-suffix]: ./media/hdinsight-hbase-provision-vnet/PrimaryDNSSuffix.png
+[img-provision-cluster-page1]: ./media/hdinsight-hbase-provision-vnet/hbasewizard1.png "预配新 HBase 群集的详细信息"
+[img-provision-cluster-page5]: ./media/hdinsight-hbase-provision-vnet/hbasewizard5.png "使用脚本操作来自定义 HBase 群集"
+[img-hdinsight-hbase-cluster-quick-create]: ./media/hdinsight-hbase-tutorial-get-started/hdinsight-hbase-quick-create.png
+[img-hdinsight-hbase-hive-editor]: ./media/hdinsight-hbase-tutorial-get-started/hdinsight-hbase-hive-editor.png
+[img-hdinsight-hbase-file-browser]: ./media/hdinsight-hbase-tutorial-get-started/hdinsight-hbase-file-browser.png
+[img-hbase-shell]: ./media/hdinsight-hbase-tutorial-get-started/hdinsight-hbase-shell.png
+[img-hbase-sample-data-tabular]: ./media/hdinsight-hbase-tutorial-get-started/hdinsight-hbase-contacts-tabular.png
+[img-hbase-sample-data-bigtable]: ./media/hdinsight-hbase-tutorial-get-started/hdinsight-hbase-contacts-bigtable.png
+![向导页 1](./media/hdinsight-storm-develop-csharp-event-hub-topology/wiz1.png)
+![向导页 2](./media/hdinsight-storm-develop-csharp-event-hub-topology/wiz2.png)
+![策略](./media/hdinsight-storm-develop-csharp-event-hub-topology/policy.png)
+[check]: ./media/hdinsight-use-hive/hdi.checkmark.png
+[image-hdi-hive-powershell]: ./media/hdinsight-use-hive/HDI.HIVE.PowerShell.png
+[img-hdi-hive-powershell-output]: ./media/hdinsight-use-hive/HDI.Hive.PowerShell.Output.png
+[image-hdi-hive-architecture]: ./media/hdinsight-use-hive/HDI.Hive.Architecture.png
+var url = "http://wams.edgesuite.net/media/MPTExpressionData02/BigBuckBunny_1080p24_IYUV_2ch.ism/manifest(format=mpd-time-csf)";
+![使用 AES-128 提供保护](./media/media-services-content-protection-overview/media-services-content-protection-with-aes.png)
+![使用 PlayReady 进行保护](./media/media-services-content-protection-overview/media-services-content-protection-with-drm.png)
+![SAMW 迁移示意图](./media/sql-database-cloud-migrate/02SAMWDiagram.png)  
+![将池添加到服务器](./media/sql-database-elastic-pool-portal/new-pool.png)
+![配置弹性池](./media/sql-database-elastic-pool-portal/configure-elastic-pool.png)
+![建议的池](./media/sql-database-elastic-pool-portal/recommended-pool.png)
+![选择一个定价层](./media/sql-database-elastic-pool-portal/pricing-tier.png)
+![添加数据库](./media/sql-database-elastic-pool-portal/add-databases.png)
+![动态建议](./media/sql-database-elastic-pool-portal/dynamic-recommendation.png)
+![配置弹性池](./media/sql-database-elastic-pool-portal/configure-performance.png)
+![建议的池](./media/sql-database-elastic-pool-portal/add-remove-databases.png)
+![创建弹性数据库](./media/sql-database-elastic-pool-portal/create-database.png)
+![监视弹性池](./media/sql-database-elastic-pool-portal/pool-tasks.png)
+[4]: ./media/sql-database-elastic-pool-portal/monitor-elastic-pool.png
+[6]: ./media/sql-database-elastic-pool-portal/metric.png
+[7]: ./media/sql-database-elastic-pool-portal/edit-chart.png
+[10]: ./media/sql-database-elastic-pool-portal/star.png
+[create_new]: ./media/sql-data-java-how-to-use-sql-database/WA_New.png
+[create_new_sql_db]: ./media/sql-data-java-how-to-use-sql-database/WA_SQL_DB_Create.png
+[create_database_settings]: ./media/sql-data-java-how-to-use-sql-database/WA_CustomCreate_1.png
+[create_server_settings]: ./media/sql-data-java-how-to-use-sql-database/WA_CustomCreate_2.png
+[get_jdbc_connection_string]: ./media/sql-data-java-how-to-use-sql-database/WA_SQL_JDBC_ConnectionString.png
+[allowed_ips_dialog]: ./media/sql-data-java-how-to-use-sql-database/WA_Allowed_IPs.png
+[Blob5]: ./media/storage-dotnet-how-to-use-blobs/blob5.png
+[Blob6]: ./media/storage-dotnet-how-to-use-blobs/blob6.png
+[Blob7]: ./media/storage-dotnet-how-to-use-blobs/blob7.png
+[Blob8]: ./media/storage-dotnet-how-to-use-blobs/blob8.png
+[Blob9]: ./media/storage-dotnet-how-to-use-blobs/blob9.png
+[Blob5]: ./media/storage-dotnet-how-to-use-table-storage/blob5.png
+[Blob6]: ./media/storage-dotnet-how-to-use-table-storage/blob6.png
+[Blob7]: ./media/storage-dotnet-how-to-use-table-storage/blob7.png
+[Blob8]: ./media/storage-dotnet-how-to-use-table-storage/blob8.png
+[Blob9]: ./media/storage-dotnet-how-to-use-table-storage/blob9.png
+[Queue1]: ./media/storage-nodejs-how-to-use-queues/queue1.png
+[plus-new]: ./media/storage-nodejs-how-to-use-queues/plus-new.png
+[quick-create-storage]: ./media/storage-nodejs-how-to-use-queues/quick-storage.png
+[Image1]: ./media/storage-premium-storage-preview-portal/Azure_pricing_tier.png
+![Azure 技术图表](./media/virtual-machines-command-line-tools/architecturediagram.jpg)
+![azurenetworkdiagram](./media/virtual-machines-command-line-tools/networkdiagram.jpg)
+![azure-sharepoint-wp-13](./media/virtual-machines-deploy-sharepoint-2010/azure-sharepoint-wp-2.png)  
+![azure-sharepoint-wp-13](./media/virtual-machines-deploy-sharepoint-2010/azure-sharepoint-wp-3.png)  
+![azure-sharepoint-wp-13](./media/virtual-machines-deploy-sharepoint-2010/azure-sharepoint-wp-11.png)  
+![azure-sharepoint-wp-12](./media/virtual-machines-deploy-sharepoint-2010/azure-sharepoint-wp-12.png)  
+![azure-sharepoint-wp-13](./media/virtual-machines-deploy-sharepoint-2010/azure-sharepoint-wp-13.png)  
+![azure-sharepoint-wp-14](./media/virtual-machines-deploy-sharepoint-2010/azure-sharepoint-wp-14.png)  
+![成功捕获映像](./media/virtual-machines-linux-capture-image/VMCapturedImageAvailable.png)
+![screen1](./media/virtual-machines-linux-quick-create-portal/screen1.png)
+![screen2](./media/virtual-machines-linux-quick-create-portal/screen2.png)
+![screen3](./media/virtual-machines-linux-quick-create-portal/screen3.png)
+![screen4](./media/virtual-machines-linux-quick-create-portal/screen4.png)
+![screen5](./media/virtual-machines-linux-quick-create-portal/screen5.png)
+![screen6](./media/virtual-machines-linux-quick-create-portal/screen6.png)
+![screen7](./media/virtual-machines-linux-quick-create-portal/screen7.png)
+![screen8](./media/virtual-machines-linux-quick-create-portal/screen8.png)
+![显示预览门户中提供的 Azure VM 映像的屏幕截图](./media/virtual-machines-windows-tutorial/marketplace_new.png)
+![显示要为 Azure VM 选择的部署模型的屏幕截图](./media/virtual-machines-windows-tutorial/marketplace_search_select.png)  
+![显示要为 Azure VM 配置的基本设置的屏幕截图](./media/virtual-machines-windows-tutorial/create_vm_basics.PNG)
+![显示可以选择的 Azure VM 大小的屏幕截图](./media/virtual-machines-windows-tutorial/create_vm_size.PNG)
+![显示可以为 Azure VM 配置的可选功能的屏幕截图](./media/virtual-machines-windows-tutorial/create_vm_settings.PNG)
+![显示对 Azure VM 所做的配置选择的摘要的屏幕截图](./media/virtual-machines-windows-tutorial/create_vm_summary.PNG)
+![显示可在 Azure VM 边栏选项卡上找到“连接”按钮的位置的屏幕截图](./media/virtual-machines-windows-tutorial/connect_vm_portal.png)
+![NSG 规则处理](./media/virtual-network-nsg-overview/figure3.png)
+![NSG ACL](./media/virtual-network-nsg-overview/figure2.png)
+![NSG](./media/virtual-network-nsg-overview/figure1.png)
+[green]: ./media/virtual-network-nsg-overview/green.png
+[yellow]: ./media/virtual-network-nsg-overview/yellow.png
+[red]: ./media/virtual-network-nsg-overview/red.png
